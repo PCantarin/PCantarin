@@ -52,5 +52,9 @@ I am passionate about building robust and scalable systems. Currently, I focus m
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-light.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-light.svg">
+  </picture>
 </p>
