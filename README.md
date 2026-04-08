@@ -6,8 +6,6 @@ I am passionate about building robust and scalable systems. Currently, I focus m
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PCantarin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PCantarin&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -17,8 +15,6 @@ I am passionate about building robust and scalable systems. Currently, I focus m
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PCantarin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 -->
-
----
 
 <p align="center">
   <picture>
