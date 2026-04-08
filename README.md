@@ -1,8 +1,6 @@
 # Hi, I'm Pedro Cantarin! 👋
 
-### 🚀 Backend Developer
-
-I am passionate about building robust and scalable systems. Currently, I focus my development on the Java ecosystem, always seeking the best practices in software design and architecture.
+I am a Java developer who loves discovering new ways to solve problems, automate processes and constantly learning new stuff.
 
 ---
 
