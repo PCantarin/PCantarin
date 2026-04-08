@@ -50,3 +50,5 @@ I am passionate about building robust and scalable systems. Currently, I focus m
 <p align="center">
   "Growth is the only evidence of life."
 </p>
+
+![Snake animation](https://github.com/PCantarin/PCantarin/blob/output/github-contribution-grid-snake.svg)
