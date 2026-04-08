@@ -20,6 +20,15 @@ I am passionate about building robust and scalable systems. Currently, I focus m
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-light.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-light.svg">
+  </picture>
+</p>
+
+
 ### 🛠️ My Toolbox
 
 #### 🔤 Languages
@@ -49,12 +58,4 @@ I am passionate about building robust and scalable systems. Currently, I focus m
 
 <p align="center">
   "Growth is the only evidence of life."
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-light.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/PCantarin/PCantarin/output/github-contribution-grid-snake-light.svg">
-  </picture>
 </p>
