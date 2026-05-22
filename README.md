@@ -34,7 +34,7 @@ I am a Java developer who loves discovering new ways to solve problems, automate
 
 #### Frameworks & Technologies
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PrimeFaces](https://img.shields.io/badge/PrimeFaces-0C7AD8?style=for-the-badge&logo=primefaces&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
 
